@@ -1,2 +1,2 @@
 # Pytorch-Pipeline
-helps in improving the given train model
+helps in analysing the model
